@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dragonfist Trainer</string>
+    <string name="accessibility_service_label">Dragonfist Trainer Vision Assistant</string>
+    <string name="accessibility_service_description">Observes Dragonfist Limitless gameplay via hardware screen capture, manages stamina hysteresis, automates training minigames, and enforces multi-layer Spend Guard protection against unintended purchases.</string>
+</resources>
